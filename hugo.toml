@@ -45,7 +45,7 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = "/images/RoeShalev4551-R1-06-6A.jpg"
+  backgroundImage = "/images/RoeShalev4551-R1-06-6A.JPG"
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/RS.jpg"
 [params.assets]
