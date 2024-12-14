@@ -2,7 +2,7 @@
 
 I am a fifth year math graduate student at Bar-Ilan University.
 
-My advisor is [Prof. Assaf Rinot](assafrinot.com) . My research interests include Set Theory and Topology.
+My advisor is [Prof. Assaf Rinot](https://www.assafrinot.com) . My research interests include Set Theory and Topology.
 
 My research interests include Set Theory and Topology.
 
