@@ -1,0 +1,159 @@
+/* Global styles */
+
+body {
+    font-family: "Lato", sans serif;
+    font-feature-settings: "liga", "kern";
+    color: #00280f;
+    background-color: #f5faf0;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+a {
+    color: #006937;
+    text-decoration: underline dashed #78cde6;
+}
+
+@media (max-width: 767.98px) {
+    body {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+table, th, td {
+    border-spacing: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.left-bar,
+.right-bar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 15%;
+  background-color: #004128;
+  z-index: -1; /* Ensure bars are behind the content */
+}
+
+.left-bar {
+  left: 0;
+}
+
+.right-bar {
+  right: 0;
+}
+
+@media (max-width: 767.98px) {
+    .left-bar,
+    .right-bar {
+      width: 0%;
+    }
+}
+
+
+@media (max-width: 767.98px) {
+    body {
+        margin-left: 5%;
+        margin-right: 3%;
+    }
+}
+hr {
+    width: 80%;
+    margin-bottom: 4ex;
+}
+@media (max-width: 767.98px) {
+    .left-bar {
+        width: 0%;
+    };
+    .right-bar {
+      width: 3%;
+    };
+    table {
+        margin-left: -10px;
+    }
+    table th:first-of-type {
+      min-width: 12ch;
+    }   
+}
+
+img {
+  max-width: 100%; /* Ensure images do not exceed their container width */
+  height: auto;    /* Maintain aspect ratio */
+  display: block;
+  margin: 20px auto; /* Center the image and add margin */
+  border-radius: 8px;
+}
+
+
+.logos-container {
+  display: flex;
+  justify-content: center; /* Center the logos horizontally */
+  gap: 20px; /* Space between logos */
+  margin-bottom: 20px; /* Add some space below the logos */
+}
+
+.logo {
+  max-width: 150px; /* Adjust the size as needed */
+  height: auto;
+}
+
+@media (min-width: 768px) {
+    .logo {
+      min-width: 200px; /* Adjust the size as needed */
+    }
+}
+
+.lecture-details {
+  margin-bottom: 10px; /* Space between details elements */
+}
+
+.lecture-summary {
+  display: flex; /* Use flexbox for alignment */
+  align-items: center; /* Align items at the center */
+  cursor: pointer; /* Change cursor to indicate it's clickable */
+}
+
+.lecture-time {
+  min-width: 12ch; /* Fixed width for time to align */
+  align-self: flex-start;
+}
+
+.lecture-title {
+  font-weight: bold;
+  text-decoration: underline dashed #78cde6;
+  color: #006937;
+}
+
+.lecture-title-undashed {
+  font-weight: bold;
+  color: #006937;
+}
+
+.lecture-info {
+  margin-left: 10px; /* Space between title and lecturer info */
+  font-weight: normal; /* Regular weight for the info text */
+  color: inherit; /* Use the default text color */
+}
+
+.lecture-abstract {
+  margin-left: 120px;
+  font-style: italic;
+}
+
+
+.ai-img {
+    filter: drop-shadow(0 0 25px #78cde6);
+    padding: 15px;
+    border-radius: 45px;
+}

@@ -1,0 +1,93 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Roy Shalev"
+theme = "personal-web"
+copyright="©Based on a template by Edna West"
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Roy Shalev"
+  sub = "Bar-Ilan University"
+
+[params.main]
+  latestPublishHeader = ""
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  #mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Page not found!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = "/images/RoeShalev4551-R1-07-7A.jpg"
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/RS.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+
+[params.contact]
+  email = "royshalev2@gmail.com"
+  text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
+  scholar = "https://scholar.google.com/citations?user=gL60XRsAAAAJ&hl=iw"
+  scholartext = "Google Scholar"
+
+#[params.social]
+#  googlescholar = "https://scholar.google.com/citations?user=gL60XRsAAAAJ&hl=iw"
+#  gmail = "royshalev2@gmail.com"
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "homepage"
+  name = "Homepage"
+  title = "Homepage"
+  url = "/"
+  weight = -120
+
+#[[menu.main]]
+#  identifier = "portfolio"
+#  name = "Portfolio"
+#  title = "Portfolio"
+#  url = "/portfolio/"
+#  weight = -110
+
+[[menu.main]]
+  identifier = "blog"
+  name = "My Blog"
+  title = "My Blog"
+  url = "/blog/"
+  weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
