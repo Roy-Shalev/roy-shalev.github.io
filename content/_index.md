@@ -16,4 +16,4 @@ My research interests include Set Theory and Topology.
 
 **Preprints:**
 
-5. A dichotomy for transitive lists (with Stevo Todorcevic and Borisa Kuzeljevicv.
+5. A dichotomy for transitive lists (with Stevo Todorcevic and Borisa Kuzeljevicv).
