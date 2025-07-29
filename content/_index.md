@@ -1,7 +1,7 @@
 ## About me
 
 I am a fifth year math graduate student at Bar-Ilan University, my advisor is [Prof. Assaf Rinot](https://www.assafrinot.com).
-I have submitted my thesis and expected to start a position as a Postdoc in UofT next year.
+I have submitted my thesis and expecting to start a Postdoc position in UofT next year under the mentorship of Prof. Stevo Todorcevic.
  
 My research interests include Set Theory and Topology.
 
@@ -16,4 +16,4 @@ My research interests include Set Theory and Topology.
 
 **Preprints:**
 
-5. A dichotomy for transitive lists (with Stevo Todorcevic and Borisa Kuzeljevicv).
+5. [A dichotomy for transitive lists] (with Stevo Todorcevic and Borisa Kuzeljevicv).
