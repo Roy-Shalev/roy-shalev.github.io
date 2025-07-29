@@ -1,9 +1,9 @@
 ## About me
 
-I am a fifth year math graduate student at Bar-Ilan University.
+I am a fifth year math graduate student at Bar-Ilan University, my advisor is [Prof. Assaf Rinot](https://www.assafrinot.com).
 I have submitted my thesis and expected to start a position as a Postdoc in UofT next year.
  
-My advisor is [Prof. Assaf Rinot](https://www.assafrinot.com) . My research interests include Set Theory and Topology.
+My research interests include Set Theory and Topology.
 
 ## Publications and Preprints
 
