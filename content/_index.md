@@ -1,9 +1,11 @@
 ## About me
 
-I am a fifth year math graduate student at Bar-Ilan University, my advisor is [Prof. Assaf Rinot](https://www.assafrinot.com).
-I have submitted my thesis and expecting to start a Postdoc position in UofT next year under the mentorship of Prof. Stevo Todorcevic.
- 
-My research interests include Set Theory and Topology.
+Hello and welcome to my academic website!  
+I am a mathematician specializing in set theory, particularly infinite combinatorics, forcing, and set-theoretic topology.  
+Later this year, I will begin a postdoctoral position at the University of Toronto under the mentorship of Prof. Stevo Todorcevic.  
+Previously, I completed my PhD at Bar-Ilan University under the supervision of [Prof. Assaf Rinot](https://www.assafrinot.com).
+
+Feel free to reach out at royshalev2 [at] gmail [dot] com
 
 ## Publications and Preprints
 
@@ -16,4 +18,4 @@ My research interests include Set Theory and Topology.
 
 **Preprints:**
 
-5. [A dichotomy for transitive lists] (with Stevo Todorcevic and Borisa Kuzeljevicv).
+5. [A dichotomy for transitive lists] (with Stevo Todorcevic and Borisa Kuzeljevicv), Submitted in November 2025.
