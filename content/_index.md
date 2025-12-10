@@ -1,8 +1,10 @@
 ## About me
 
 Hello and welcome to my academic website!  
-I am a mathematician specializing in set theory, particularly infinite combinatorics, forcing, and set-theoretic topology.  
-Later this year, I will begin a postdoctoral position at the University of Toronto under the mentorship of Prof. Stevo Todorcevic.  
+I am a mathematician specializing in set theory, particularly infinite combinatorics, forcing, and set-theoretic topology. 
+
+I am currently a postdoctoral fellow at the Einstein Institute of Mathematics at the Hebrew University of Jerusalem, working under the supervision of [Prof. Yair Hayut](https://math.huji.ac.il/~yairhayut/).
+Later this year, I will begin a postdoctoral position at the University of Toronto under the mentorship of [Prof. Stevo Todorcevic](math.toronto.edu/~stevo/).  
 Previously, I completed my PhD at Bar-Ilan University under the supervision of [Prof. Assaf Rinot](https://www.assafrinot.com).
 
 Feel free to reach out at royshalev2 [at] gmail [dot] com
