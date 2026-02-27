@@ -1,7 +1,7 @@
 ## About me
 
 Hello and welcome to my academic website!  
-I am a mathematician specializing in set theory, particularly infinite combinatorics, forcing, and set-theoretic topology. 
+I am a mathematician specializing in set theory, particularly infinite combinatorics, forcing and set-theoretic topology. 
 
 I am a Postdoctoral Fellow in the Department of Mathematics at the University of Toronto, working under the mentorship of [Prof. Stevo Todorcevic](math.toronto.edu/~stevo/)
 Previously, I held a postdoctoral fellowship at the Hebrew University of Jerusalem's Einstein Institute of Mathematics, where I worked with [Prof. Yair Hayut](https://math.huji.ac.il/~yairhayut/). I completed my PhD at Bar-Ilan University under the supervision of [Prof. Assaf Rinot](https://www.assafrinot.com).
