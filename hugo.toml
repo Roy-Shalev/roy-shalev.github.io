@@ -10,7 +10,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Roy Shalev"
-  sub = "Bar-Ilan University"
+  sub = "University of Toronto"
 
 [params.main]
   latestPublishHeader = ""
